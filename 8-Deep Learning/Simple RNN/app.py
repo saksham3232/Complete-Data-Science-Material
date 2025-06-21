@@ -14,7 +14,7 @@ word_index = imdb.get_word_index()
 reverse_word_index = {value: key for key, value in word_index.items()}
 
 # Load the pre-trained model
-model = load_model('8-Deep Learning/Simple RNN/imdb_rnn_model.h5', compile=False)
+model = load_model('8-Deep Learning/Simple RNN/imdb_rnn_model.keras', compile=False)
 
 # Helper function to preprocess input text
 def preprocess_text(text, vocab_size=VOCAB_SIZE):
