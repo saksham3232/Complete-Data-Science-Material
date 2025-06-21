@@ -70,6 +70,6 @@ with col2:
 # Output
 if st.session_state.sentiment:
     st.success(f"**Sentiment:** {st.session_state.sentiment}")
-    st.write(f"**Prediction Score:** {st.session_state.score:.2f}")
+    st.write(f"**Prediction Score:** {st.session_state.score:.4f}")
 elif not st.session_state.review_input.strip():
     st.info("✍️ Please enter a movie review.")
