@@ -10,3 +10,6 @@ matplotlib
 seaborn
 tensorboard
 scikeras
+fastapi
+uvicorn
+fastapi[all]
