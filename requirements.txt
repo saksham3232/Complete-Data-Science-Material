@@ -13,3 +13,4 @@ scikeras
 fastapi
 uvicorn
 fastapi[all]
+nltk
