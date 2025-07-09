@@ -10,7 +10,6 @@ This repository is a comprehensive collection of resources, tutorials, notes, an
 - [Folder Overviews](#folder-overviews)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
