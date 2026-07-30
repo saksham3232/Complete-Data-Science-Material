@@ -5,7 +5,7 @@ numpy
 flask
 memory_profiler
 streamlit
-tensorflow==2.16.1
+tensorflow
 matplotlib
 seaborn
 tensorboard
